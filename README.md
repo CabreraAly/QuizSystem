@@ -1,4 +1,4 @@
-# Quiz System (Java Console Application)
+# Quiz_System 
 
 ```
 ╔══════════════════════════════════════════════════════╗
